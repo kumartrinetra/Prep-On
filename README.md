@@ -94,7 +94,7 @@
 
 ## 👨‍💻 Team
 
-1. **Arya Shantanu** (Team Lead – Frontend & Backend)  
-2. **Rakshit Singh** (Frontend & Backend)  
-3. **Aryan Raj** (Frontend & Database)  
-4. **Rachit Kumar** (Machine Learning & AI Chatbot)
+1. **Rachit Kumar** (Team Lead – Machine Learning & AI Chatbot)  
+2. **Aryan Raj** (Frontend & Backend)  
+3. **Arya Shantanu** (Frontend & Database)  
+4. **Trinetra Kumar** (Backend)
